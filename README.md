@@ -6,4 +6,8 @@ Your based discord bot manager with a varity of options
 - Create Roles
 - Delete All Channels
 - Delete All Roles
---- ![image](https://files.catbox.moe/6s2s1z.png)
+
+![image](https://files.catbox.moe/6s2s1z.png)
+
+# Info
+yes pyarmor because i cont condone skidding
