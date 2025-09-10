@@ -10,4 +10,4 @@ Your based discord bot manager with a varity of options
 ![image](https://files.catbox.moe/6s2s1z.png)
 
 # Info
-yes pyarmor because i cont condone skidding
+yes pyarmor because i cont condone skidding. Check tria.ge or virustotal if you think this is 'malware' lol
